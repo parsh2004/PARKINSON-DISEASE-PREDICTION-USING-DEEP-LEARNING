@@ -23,6 +23,7 @@ The goal of this project is to develop predictive models for Parkinson’s disea
 
 ### RESULT
 <img width="489" height="181" alt="image" src="https://github.com/user-attachments/assets/373f1eea-1f20-42fe-ad4b-0aef62b8c1d6" />
+
 ### CONCLUSION
 
 This project successfully harnessed machine learning and deep learning techniques to predict Parkinson’s disease severity and derive actionable insights into disease progression. The LSTM model, tailored for sequential data, demonstrated impressive accuracy at 93.3%, highlighting its ability to capture temporal relationships critical for modeling neurodegenerative disorders. Complementing this, the Random Forest model effectively utilized non-sequential features, particularly acoustic biomarkers like jitter, shimmer, and HNR, to provide additional perspectives on Parkinson’s severity.Moreover, the exploratory analyses revealed important patterns.Disease Progression Longitudinal tracking of UPDRS scores showcased how symptoms evolve over time, providing a quantitative basis for assessing disease management strategies. Demographic Factors Gender-based analysis uncovered disparities in motor and total UPDRS scores, while age was found to correlate with increased disease severity.Acoustic Biomarkers Acoustic features emerged as significant predictors, indicating their value in non-invasive, early diagnosis and monitoring.
